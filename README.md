@@ -1,1 +1,1 @@
-# LiveWord-Counter
+# Live-Word Counter
